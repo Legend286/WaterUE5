@@ -4,11 +4,6 @@
 	"Category": "",
 	"Description": "",
 	"Modules": [
-		{
-			"Name": "WaterBody",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
 	],
 	"Plugins": [
 		{
@@ -34,11 +29,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "VoxelPro",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b08e5581837e4bbca486b61cdf2751bb"
 		}
 	]
 }
